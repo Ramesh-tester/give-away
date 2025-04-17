@@ -13,7 +13,3 @@
 #| (Data Tables)
 #@ (Tags/Labels):To group Scenarios
 #<> (placeholder)
-#""
-## (Comments)
-#Sample Feature Definition Template
-@tag
